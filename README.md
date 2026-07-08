@@ -51,16 +51,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=volkanaktas34&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
 ## 🎯 Current Goals
 
 * 🔐 Develop open-source cybersecurity tools
