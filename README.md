@@ -87,10 +87,6 @@
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://youtube.com/@volkanaktas34">
-<img src="https://skillicons.dev/icons?i=youtube"/>
-</a>
-
 <a href="https://discord.gg/fsocietys">
 <img src="https://skillicons.dev/icons?i=discord"/>
 </a>
