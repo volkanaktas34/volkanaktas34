@@ -1,21 +1,138 @@
-# Hi 👋, I'm Volkan AKTAŞ
+<div align="center">
 
-### A passionate cybersecurity expert from Türkiye
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B0F19,50:111827,100:00C853&text=VOLKAN%20AKTAŞ&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Cybersecurity%20%7C%20Python%20Developer%20%7C%20Linux&descSize=20&descAlignY=60"/>
 
-- 🌱 I'm currently learning **Python**
+# 👋 Hello, I'm Volkan AKTAŞ
 
-- 📫 How to reach me **volkan.aktas@outlook.com.tr**
+### 🔐 Cybersecurity Enthusiast • Python Developer • Linux User
 
-- ⚡ Fun fact **I think I am Funny!**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=750&lines=Cybersecurity+Enthusiast;Python+Automation;Linux+Power+User;Building+Security+Tools;Always+Learning"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/volkanaktas34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="volkanaktas34" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/volkanaktas34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="volkanaktas34" height="30" width="40" /></a>
-<a href="https://fb.com/volkanaktass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="volkanaktass" height="30" width="40" /></a>
-<a href="https://youtube.com/volkanaktas34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="volkanaktas34" height="30" width="40" /></a>
-<a href="https://discord.gg/fsocietys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fsocietys" height="30" width="40" /></a>
+<p>
+<img src="https://komarev.com/ghpvc/?username=volkanaktas34&style=for-the-badge&color=00C853"/>
+<img src="https://img.shields.io/github/followers/volkanaktas34?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/volkanaktas34?style=for-the-badge&logo=github"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+</div>
+
+---
+
+## 💻 About Me
+
+```text
+👤 Name       : Volkan AKTAŞ
+📍 Location   : Türkiye
+🎯 Focus      : Cybersecurity & Automation
+🐍 Learning   : Python
+🐧 OS         : Linux
+📚 Interests  : Web Security • Network Security • Open Source
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,bash,c,linux,docker,git,github,django,flask,arduino,gcp,vscode,ps&perline=7"/>
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=volkanaktas34&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=volkanaktas34&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volkanaktas34&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=volkanaktas34&theme=github-compact&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=volkanaktas34&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+## 🎯 Current Goals
+
+* 🔐 Develop open-source cybersecurity tools
+* 🐍 Become an advanced Python developer
+* ☁️ Learn Cloud Security
+* 🦠 Study Malware Analysis
+* 🔍 Improve Reverse Engineering skills
+* 🤝 Contribute to security-focused open-source projects
+
+---
+
+## 📌 Featured Repositories
+
+| Repository         | Description                         |
+| ------------------ | ----------------------------------- |
+| 🔐 Security Tools  | Security scripts and utilities      |
+| 🐍 Python Projects | Automation and learning projects    |
+| 🌐 Web Security    | Web application security research   |
+| 🐧 Linux Scripts   | Productivity and automation scripts |
+
+> 📍 Pin these repositories from your GitHub profile to showcase your best work.
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/volkanaktas34">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/volkanaktas34">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://youtube.com/@volkanaktas34">
+<img src="https://skillicons.dev/icons?i=youtube"/>
+</a>
+
+<a href="https://discord.gg/fsocietys">
+<img src="https://skillicons.dev/icons?i=discord"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💬 Motto
+
+> **"Continuous learning is the strongest security tool."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0B0F19,50:111827,100:00C853"/>
+
+</div>
