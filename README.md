@@ -171,7 +171,7 @@ Cloud Security        █████████░░░░░░░░░
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=volkanaktas34&theme=react-dark&hide_border=true&area=true" alt="Volkan's GitHub Activity Graph" />
+  <img src="https://raw.githubusercontent.com/volkanaktas34/volkanaktas34/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
