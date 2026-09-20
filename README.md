@@ -171,7 +171,7 @@ Cloud Security        █████████░░░░░░░░░
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/volkanaktas34/volkanaktas34/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-profile-3d-contrib.puzzle3d.workers.dev/user?username=volkanaktas34&theme=dark" alt="3D Contribution Graph" />
 </p>
 
 ---
