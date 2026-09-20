@@ -44,9 +44,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=volkanaktas34&show_icons=true&theme=tokyonight&hide_border=true" alt="Volkan's GitHub Stats" />
-  
+  <img src="https://raw.githubusercontent.com/volkanaktas34/volkanaktas34/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
