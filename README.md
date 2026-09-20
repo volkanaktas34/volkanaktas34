@@ -28,14 +28,14 @@
 
 ```text
 ╭──────────────────────────────────────────────────────────────╮
-│  👤  Volkan AKTAŞ                                             │
-│                                                              │
-│  🔐  Cybersecurity                                            │
-│  🐍  Python Development & Automation                          │
-│  🐧  Linux & Open Source                                      │
-│  🌐  Web & Network Security                                   │
-│  🛠️  Security Tools & Scripting                              │
-│  📚  Continuous Learning                                     │
+│  👤  Volkan AKTAŞ                                             │
+│                                                              │
+│  🔐  Cybersecurity                                            │
+│  🐍  Python Development & Automation                          │
+│  🐧  Linux & Open Source                                      │
+│  🌐  Web & Network Security                                   │
+│  🛠️  Security Tools & Scripting                              │
+│  📚  Continuous Learning                                     │
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
@@ -50,14 +50,14 @@ I believe the best way to learn security is to **build, break, analyze and rebui
 ## ⚔️ Cybersecurity Focus
 
 ```text
-Web Security          ███████████████░░░  Developing
-Network Security      ██████████████░░░░  Developing
-Linux Security        ███████████████░░░  Developing
-Security Automation   ████████████████░░  Developing
-Python Security Tools ███████████████░░░  Developing
-Reverse Engineering   ███████████░░░░░░░  Learning
-Malware Analysis      ██████████░░░░░░░░  Learning
-Cloud Security        █████████░░░░░░░░░  Learning
+Web Security          ███████████████░░░  Developing
+Network Security      ██████████████░░░░  Developing
+Linux Security        ███████████████░░░  Developing
+Security Automation   ████████████████░░  Developing
+Python Security Tools ███████████████░░░  Developing
+Reverse Engineering   ███████████░░░░░░░  Learning
+Malware Analysis      ██████████░░░░░░░░  Learning
+Cloud Security        █████████░░░░░░░░░  Learning
 ```
 
 ---
@@ -127,23 +127,23 @@ Cloud Security        █████████░░░░░░░░░  Le
 ## 🚀 Current Learning Path
 
 ```text
-                    CYBERSECURITY
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-      WEB SECURITY   NETWORKING     LINUX
-          │              │              │
-          └──────────────┼──────────────┘
-                         │
-                  PYTHON AUTOMATION
-                         │
-              ┌──────────┴──────────┐
-              │                     │
-        REVERSE ENGINEERING    CLOUD SECURITY
-              │                     │
-              └──────────┬──────────┘
-                         │
-                 SECURITY TOOLING
+                    CYBERSECURITY
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+      WEB SECURITY   NETWORKING     LINUX
+          │              │              │
+          └──────────────┼──────────────┘
+                         │
+                  PYTHON AUTOMATION
+                         │
+              ┌──────────┴──────────┐
+              │                     │
+        REVERSE ENGINEERING    CLOUD SECURITY
+              │                     │
+              └──────────┬──────────┘
+                         │
+                 SECURITY TOOLING
 ```
 
 ---
@@ -171,9 +171,7 @@ Cloud Security        █████████░░░░░░░░░  Le
 ## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=volkanaktas34&bg_color=0D1117&color=00C853&line=00C853&point=FFFFFF&area=true&hide_border=true" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=volkanaktas34&theme=react-dark&hide_border=true&area=true" alt="Volkan's GitHub Activity Graph" />
 </p>
 
 ---
